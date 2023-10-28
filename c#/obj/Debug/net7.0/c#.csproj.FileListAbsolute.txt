@@ -1,0 +1,15 @@
+/Users/aeg/jobApp/E-commerceC#/c#/bin/Debug/net7.0/c#
+/Users/aeg/jobApp/E-commerceC#/c#/bin/Debug/net7.0/c#.deps.json
+/Users/aeg/jobApp/E-commerceC#/c#/bin/Debug/net7.0/c#.runtimeconfig.json
+/Users/aeg/jobApp/E-commerceC#/c#/bin/Debug/net7.0/c#.dll
+/Users/aeg/jobApp/E-commerceC#/c#/bin/Debug/net7.0/c#.pdb
+/Users/aeg/jobApp/E-commerceC#/c#/obj/Debug/net7.0/c#.csproj.AssemblyReference.cache
+/Users/aeg/jobApp/E-commerceC#/c#/obj/Debug/net7.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aeg/jobApp/E-commerceC#/c#/obj/Debug/net7.0/c#.AssemblyInfoInputs.cache
+/Users/aeg/jobApp/E-commerceC#/c#/obj/Debug/net7.0/c#.AssemblyInfo.cs
+/Users/aeg/jobApp/E-commerceC#/c#/obj/Debug/net7.0/c#.csproj.CoreCompileInputs.cache
+/Users/aeg/jobApp/E-commerceC#/c#/obj/Debug/net7.0/c#.dll
+/Users/aeg/jobApp/E-commerceC#/c#/obj/Debug/net7.0/refint/c#.dll
+/Users/aeg/jobApp/E-commerceC#/c#/obj/Debug/net7.0/c#.pdb
+/Users/aeg/jobApp/E-commerceC#/c#/obj/Debug/net7.0/c#.genruntimeconfig.cache
+/Users/aeg/jobApp/E-commerceC#/c#/obj/Debug/net7.0/ref/c#.dll
